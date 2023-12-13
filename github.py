@@ -8,3 +8,5 @@ elif 15<a<18:
 else:
     print("Teljes mértékben munkaképes vagy!")
 
+b=int(input("Mennyi pénzt akarsz keresni: "))
+
