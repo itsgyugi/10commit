@@ -5,3 +5,6 @@ if a<15:
 elif 15<a<18:
     print("Korlátozottan dolgozhatsz!")
 
+else:
+    print("Teljes mértékben munkaképes vagy!")
+
