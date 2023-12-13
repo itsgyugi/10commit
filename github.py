@@ -14,4 +14,6 @@ if b>200000:
     print("Ehhez aztán nem kell sokat dolgoznod!")
 elif 200000<b<500000:
     print("Napi 8 óra")
+else:
+    print("Ehhez napi 10-12 órát kell dolgoznod,de sokat fogsz keresni!")
 
