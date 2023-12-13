@@ -10,3 +10,6 @@ else:
 
 b=int(input("Mennyi pénzt akarsz keresni: "))
 
+if b>200000:
+    print("Ehhez aztán nem kell sokat dolgoznod!")
+
