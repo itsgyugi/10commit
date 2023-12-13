@@ -12,4 +12,6 @@ b=int(input("Mennyi pénzt akarsz keresni: "))
 
 if b>200000:
     print("Ehhez aztán nem kell sokat dolgoznod!")
+elif 200000<b<500000:
+    print("Napi 8 óra")
 
